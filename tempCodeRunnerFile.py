@@ -1,1 +1,1 @@
-radius
+input("Insert range of random numbers: ")
